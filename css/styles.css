@@ -1,0 +1,68 @@
+/*
+COLOUR PLAETTE
+Indigo Dye: #08415C
+Solid Pink: #92374D
+Slate Gray: #6B818C
+Peach Crayola: #F1BF98
+Lavendar Blush: #EEE5E9
+*/
+
+/*Global Styles-------------------------------------------*/
+body {
+  color: black;
+}
+
+img {
+    width: 300px;
+}
+
+a{
+    color: #6B818C;
+
+}
+
+a:hover {
+   text-decoration: none;
+}
+/*Profile -------------------------------------------*/
+header {
+  background: #08415C;
+}
+
+/*Projects-------------------------------------------*/
+.projects {
+  background: #6B818C;
+}
+
+.projects a {
+  color: #EEE5E9;
+}
+
+.projects .btn{
+  color: #EEE5E9;
+  background: #92374D;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+.projects .btn:hover {
+  background: rgb(146,55,77, 80%);
+
+}
+
+/*Work Experience-------------------------------------------*/
+.work-experience{
+  background: #EEE5E9;
+}
+
+/*Education-------------------------------------------*/
+.education {
+  background: #F1BF98;
+
+}
+
+/*Contact Info-------------------------------------------*/
+footer{
+  background: #92374D;
+}
